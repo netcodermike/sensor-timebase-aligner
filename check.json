@@ -1,0 +1,15 @@
+{
+  "command": [
+    "{python}",
+    "app.py"
+  ],
+  "expected": {
+    "mappedMs": [
+      100,
+      350.25,
+      1101
+    ],
+    "ratePpm": 1000,
+    "offsetAtZeroMs": 100
+  }
+}
